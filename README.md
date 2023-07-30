@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@omjamnekar" target="blank"><img src="https://img.shields.io/twitter/follow/@omjamnekar?logo=twitter&style=for-the-badge" alt="@omjamnekar" /></a> </p>
 
-- 🔭 i am currently working for my own project and i am studying BScIT at dahanukar collage (vileparle,mumbai,india) [veggiesmania](https://veggimania.netlify.app)
+- 🔭  i am studying BScIT at dahanukar collage and i am currently working for my own project (vileparle,mumbai,india) [veggiesmania](https://veggimania.netlify.app)
 
 - 🌱 I’m currently learning application development **html and css framework,javascript and currently learning dart and flutter framework**
 
