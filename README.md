@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@omjamnekar" target="blank"><img src="https://img.shields.io/twitter/follow/@omjamnekar?logo=twitter&style=for-the-badge" alt="@omjamnekar" /></a> </p>
 
-- 🔭 i am currently working for my own project [veggiesmania](https://veggimania.netlify.app)
+- 🔭 i am currently working for my own project and i am studying BScIT at dahanukar collage (vkileparle,mumbai,india) [veggiesmania](https://veggimania.netlify.app)
 
 - 🌱 I’m currently learning application development **html and css framework,javascript and currently learning dart and flutter framework**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **c,c++,javascript,html,css,firebase,python,MachinLreaning,dart,flutter framework etc.**
 
-- 📫 How to reach me **omjamnekar877@gmail.com**
+- 📫 How to reach me **omjamnekar877@gmail.com*
 
 - ⚡ Fun fact **I think, i am nurd🤓**
 
