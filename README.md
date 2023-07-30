@@ -34,7 +34,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/today is goodday"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="today is goodday" /></a><a href="https://ko-fi.com/with code"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="with code" /></a></p><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omjamnekar&show_icons=true&locale=en&layout=compact" alt="omjamnekar" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omjamnekar&show_icons=true&locale=en&layout=compact" alt="omjamnekar" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omjamnekar&show_icons=true&locale=en" alt="omjamnekar" /></p>
 
