@@ -4,7 +4,7 @@
 
 
 <img src="https://github.com/omjamnekar/omjamnekar/assets/123346380/afbacdab-3586-424f-b72b-4d6e119be227">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjamnekar&label=Profile%20views&color=0e75b6&style=flat" alt="omjamnekar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjamnekar&label=Profile%20views&color=0e75b6&style=flat" alt="omjamnekar" /> vc  </p>
 
 <p align="left"> <a href="https://twitter.com/@omjamnekar" target="blank"><img src="https://img.shields.io/twitter/follow/@omjamnekar?logo=twitter&style=for-the-badge" alt="omjamnekar" /></a> </p>
 
