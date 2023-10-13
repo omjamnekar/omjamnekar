@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Om Jamnekar</h1>
 <h3 align="center">passionate learner and IT Student from India</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row;">
 <img src="https://github.com/omjamnekar/omjamnekar/assets/123346380/afbacdab-3586-424f-b72b-4d6e119be227" >
 <div style="width=50px">
 <img src="https://media2.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=6c09b952av55ki2d674kj3f8ft7jnh3n10wg8zwnk6mn445q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" style="width=300px" height='300px'>
