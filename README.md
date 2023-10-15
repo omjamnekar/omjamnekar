@@ -7,7 +7,7 @@
 <div style="width=0px">
 <img src="https://media2.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=6c09b952av55ki2d674kj3f8ft7jnh3n10wg8zwnk6mn445q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" style="width=300px" height='300px'>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjamnekar&label=Profile%20views&color=0e75b6&style=flat" alt="omjamnekar" /> vc  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjamnekar&label=Profile%20views&color=0e75b6&style=flat" alt="omjamnekar" />  </p>
 
 <p align="left"> <a href="https://twitter.com/@omjamnekar" target="blank"><img src="https://img.shields.io/twitter/follow/@omjamnekar?logo=twitter&style=for-the-badge" alt="omjamnekar" /></a> </p>
 
