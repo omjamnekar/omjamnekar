@@ -1,4 +1,4 @@
-<img  styl="width:100%;" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
+<img  styl="width:100%;" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" autoplay>
 <h1 align="center">Hi 👋, I'm Om Jamnekar</h1>
 <h3 align="center">passionate learner and IT Student from India</h3>
 
