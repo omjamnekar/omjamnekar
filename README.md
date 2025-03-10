@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on application and frontend development [omnifood](https://omnifood.dev/)
 
-- 💬 Ask me about **c,c++,javascript,html,css,firebase,python,MachinLreaning,dart,flutter framework etc.**
+- 💬 Ask me about **c,c++,javascript,html,css,firebase,python,MachinLearning,dart,flutter framework etc.**
 
 - 📫 How to reach me **omjamnekar877@gmail.com*
 
