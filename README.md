@@ -11,7 +11,7 @@
 
 ### 🔥 About Me
 
-- 🎓 I'm pursuing **BSc in IT** at **Dahanukar College, Mumbai**
+- 🎓 I'm **BSc in IT** graduated from **Dahanukar College, Mumbai**
 - 💼 Currently working as a **Flutter Developer Intern** at **Whatbytes**
 - 💡 Actively building meaningful projects like **[VeggiesMania](https://veggimania.netlify.app)** to help people make healthier food choices
 - 🌱 Always learning: Currently diving deep into **Flutter**, **Dart**, and advanced **frontend systems**
