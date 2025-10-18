@@ -42,7 +42,7 @@
 ---
 
 ### 📈 GitHub Stats
-<div class ="style={diplay=flex}">
+<div style="display: flex;">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omjamnekar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
