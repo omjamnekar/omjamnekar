@@ -1,8 +1,4 @@
 <img align="center" width="100%" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" />
-
-<h1 align="center">Hi 👋, I'm Om Jamnekar</h1>
-<h3 align="center">A Passionate App Developer | BSc IT Graduate | Tech Guy from India 🇮🇳</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omjamnekar&label=Profile%20views&color=0e75b6&style=flat" alt="omjamnekar" />
 </p>
