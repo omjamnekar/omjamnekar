@@ -51,10 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjamnekar&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjamnekar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
@@ -66,15 +62,3 @@
   <a href="https://discord.gg/omi1818" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
----
-
-### 💡 Featured Projects
-
-- 🍲 [VeggiesMania](https://veggimania.netlify.app): Smart app for healthy food suggestions  
-- 🍱 [OmniFood Clone](https://omnifood.dev): Frontend UI concept focused on food delivery
-
----
-
-### ☕ Support
-
-If you like my work, feel free to ⭐ the repo or connect with me — let's grow together!
