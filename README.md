@@ -7,10 +7,9 @@
 
 ### 🔥 About Me
 
-- 🎓 I'm **BSc in IT** graduated from **Dahanukar College, Mumbai**
-- 💼 Worked as a **Flutter Developer Intern** at **Whatbytes**
-- 💡 Actively building meaningful projects like **[VeggiesMania](https://veggimania.netlify.app)** to help people make healthier food choices
-- 🌱 Always learning: Currently diving deep into **Flutter**, **Dart**, and advanced **frontend systems**
+- 🎓 I'm **BSc-IT** graduated from **Dahanukar College, Mumbai**
+- 💼 Worked as a **Software Developer II** at **BDO Rise**
+  - 🌱 Always learning: Currently diving deep into **Angular**, **Dart**, and advanced **frontend systems**
 - 🤝 Open to collaboration on app dev, UI/UX, and innovation-driven tech projects
 - 🧠 I love combining design with logic — building not just apps, but *experiences*
 - ✉️ Reach me at: **omjamnekar877@gmail.com**
